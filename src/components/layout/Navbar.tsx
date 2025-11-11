@@ -9,8 +9,8 @@ export const Navbar = () => {
         <div className="flex items-center gap-2">
           <SidebarTrigger className="text-foreground p-4" />
           <Link to="/" className="flex items-center justify-between mr-4">
-            <img src="/images/logo.png" className="mr-3 h-8" alt="App Logo" />
-            <h1 className="text-2xl font-bold text-foreground dark:text-foreground">Chess</h1>
+            <img src="/logo.png" className="mr-3 h-8" alt="App Logo" />
+            <h1 className="text-2xl font-bold text-foreground dark:text-foreground">Chessler Chess</h1>
           </Link>
         </div>
         <div className="flex items-center">

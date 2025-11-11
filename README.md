@@ -1,4 +1,4 @@
-# React Chess Game
+# Chessler Chess
 
 A modern chess game implementation built with React, TypeScript, and TailwindCSS. Features a responsive design with dark/light mode support. Designed as a learning tool rather than a competitive platform.
 
