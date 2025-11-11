@@ -14,7 +14,7 @@ export const ApplicationShell = () => {
           <MainContent />
         </div>
         <footer className="flex-none h-10 border-t bg-background flex items-center justify-center">
-            <p className="text-black dark:text-white">Developed by <a href="https://www.instagram.com/idk_satvik.s/" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">Sparrow AI Solutions</a></p>
+            <p className="text-black dark:text-white">Developed by <a href="https://www.instagram.com/idk_satvik.s/" target="_blank" rel="noopener noreferrer" className="text-black dark:text-white hover:underline">Sparrow AI Solutions</a></p>
         </footer>
       </div>
       <Toaster />
